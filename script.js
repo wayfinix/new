@@ -140,7 +140,7 @@ const data = {
     tenthh: "פריסת פיצויים",
     eleventhh: "טיפול בטפסי 161",
     twelvethh: "פדיון כספים",
-    thirdteenthh: "איחוד קופות וקבלת קצבה",
+    thirdteenthh: "ליווי בקבלת קצבאות מב''ל",
     fourteenthh: "ליווי בסיוע שכר דירה",
     fifteenthh: "הנבחרת שלנו",
     send: "שליחה",

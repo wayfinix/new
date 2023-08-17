@@ -48,8 +48,7 @@ function changeLanguage() {
     eigthh.textContent = data.Russian.eigthh;
     (ninthh.textContent = data.Russian.ninthh),
       (ninthh.style.maxWidth = "100px");
-    (tenthh.textContent = data.Russian.tenthh),
-      (tenthh.style.maxWidth = "120px");
+    tenthh.textContent = data.Russian.tenthh;
     (eleventhh.textContent = data.Russian.eleventhh),
       (eleventhh.style.maxWidth = "70px");
     twelvethh.textContent = data.Russian.twelvethh;
@@ -97,8 +96,7 @@ function changeLanguage() {
     eigthh.textContent = data.hebrew.eigthh;
     (ninthh.textContent = data.hebrew.ninthh),
       (ninthh.style.maxWidth = "160px");
-    (tenthh.textContent = data.hebrew.tenthh),
-      (tenthh.style.maxWidth = "160px");
+    tenthh.textContent = data.hebrew.tenthh;
     (eleventhh.textContent = data.hebrew.eleventhh),
       (eleventhh.style.maxWidth = "160px");
     twelvethh.textContent = data.hebrew.twelvethh;
@@ -174,8 +172,8 @@ const data = {
     seventhh: "Консолидация пенсионных фондов и пенсионных выплат",
     eigthh: "Освобождение пенсионной выплаты от налога",
     ninthh: "Возврат налогов",
-    tenthh: "Распределение компенсации",
-    eleventhh: "Лечение форм 161",
+    tenthh: "Распределение компенсации от работодателя",
+    eleventhh: "Анализ 161 форм",
     twelvethh: "Снятие пенсионных накоплений",
     thirdteenthh: "Помощь в получении пособий от национального страхования",
     fourteenthh: "Сопровождение в получении пособия на жилье",
